@@ -1,0 +1,1 @@
+ลบ table อันเก่าออกแล้วลอง render table by date range
